@@ -1,5 +1,7 @@
 # README
 
+First Test Repo on the RoR Dev Course
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
